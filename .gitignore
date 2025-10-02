@@ -3,3 +3,5 @@ __pycache__/
 calss/
 comands.txt
 flight.json
+node_modules/
+command.txt
